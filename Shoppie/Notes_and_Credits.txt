@@ -1,0 +1,20 @@
+DAY
+===
+JUN 07, 2018
+
+INSTRUCTIONS
+============
+Similar to Amazon
+Changelog:
+Before Sharing:
+rather not say (it was too easy to be true)
+After sharing:
+1.0: Added iPad Pro directory listing
+1.0.1: added Home button, doesn't do anything
+1.0.1.1: Changed the pricing from USD to CAD (because I am Canadian) and made the home button actually do something. 
+1.0.2: added staple and stapler entries, they don't have any info, I'll add the info soon. 
+
+NOTES_AND_CREDITS
+Thanks, Scratch! 
+Wanted to make a fake ad. decided on something like Amazon. 
+Lol right? ;)

@@ -1,0 +1,42 @@
+DAY
+===
+Aug 17, 2018
+
+INSTRUCTIONS
+============
+
+!!Anthie
+Better than the discontinued one. This one was created from scratch. (Get it?) Without any help. 
+For feedback::: https://scratch.mit.edu/projects/239483507/#player
+Username: yours
+WiFi password: A75JF772
+SSID: HelloAndWelcomeToScratchfone (rettam ton seod) 
+Passkey: <<tech>>
+
+NOTES AND CREDITS
+=================
+
+I am working on::: The Desktop
+Feature Announcement: The desktop is pink. (Sorry if you hate pink!)
+BEFORE SHARING: 
+Create
+1.0: deleted Sprite1 (scratch-cat)
+Alpha Part One (only available to me)
+1.1: added load
+1.1.1: added button
+1.2: added login
+1.3: added password
+1.3 Extended: added SDA
+1.4: Deleted done sign from the load
+AFTER SHARING
+Alpha Part Two
+I'm getting tired. 
+---CUT---
+Beta
+1.5: Added the new (desktop) backdrop
+1.5 Extended: Changed the feedback way
+1.5 Ex. Extended: Changed a few settings here and there; doing all the normal housekeeping tasks
+SKIPPED OMEGA & PREVIEW because I'm getting impatient
+PUBLIC VERSION!! YAYAYAYAYAYAY! :):):):):)
+sorry, last one was nov 1 2018 now its dec 15 2018 sry 4 the w8
+Anthie 1.6: Optimised for SCRATCH 3.0!! YAY! 

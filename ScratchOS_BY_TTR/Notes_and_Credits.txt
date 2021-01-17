@@ -1,0 +1,82 @@
+DATE
+----
+APR 30, 2018
+
+INSTRUCTIONS
+------------
+
+ScratchOS is an operating system made to have a consistent interface and run fast. 
+This version is by TtR. 
+If I can reach 125 likes (hearts), I will remix a Windows 7!! (I like to remix.) 
+
+Programs: 
+Camera
+Settings
+Pong
+Logs (Press r, and then type logs to access; type cLog to close) 
+For feedback::: https://scratch.mit.edu/projects/239483507/#player
+I have burned (figuratively) my original plans for Assistant, so Assistant will never be done unless I am committed. 
+
+NOTES_AND_CREDITS
+-----------------
+Thanks, Kwaj2, Scratch! 
+Changelog:
+BEFORE SHARING
+REMIX: Remixed the project
+1.0.1: if you forget the password then press 9, press 8 to hide the password
+1.0.2: bug fixes
+1.0.3: adds the icon for the assistant; the icon does nothing
+1.0.3.1: makes the assistant icon go away when the Menu button is pressed. 
+1.0.4: bug fixes
+1.0.4.1: Fixes a bug when deleting the password
+1.0.5: makes the password data cloud data (so you keep your password)
+1.0.5.1: bug fixes from cloud data
+1.0.5.2: more bug fixes from cloud data
+1.0.5.3: even more bug fixes from cloud data
+SHARED
+1.0.5.4: found out that cloud data only supports numbers, deleted the cloud data. 
+1.0.6: added a Year, Month, and Day variable
+1.0.6.1: hid the Date variable
+1.0.6.2: added a few more features
+1.0.6.3: fixed a bug where the 'Second' variable didn't show up
+1.0.6.3.1: made the 'Second' variable wait before showing
+1.0.6.3.2: made the clock always show (forever!)
+1.0.6.5: added the name question for The Assistant
+1.0.6.5.1: added Shoppie support (on official Shoppie launch date) [june 8, 2018]
+1.0.6.6: added more sophisticated name asking for the Assistant
+1.0.6.6.1: fixed a bug where Assistant and Shoppie would show when an aprog is in full screen
+1.0.6.6.2: made Start flag clicks, will only count if your username is not TheTechRobo; fixed a bug where saying you want to delete the name for the assistant only tells the assistant you have no name, it still says your name. 
+1.0.6.6.3: bug fixes; day of week feature added
+1.0.6.6.4: minor graphics improvements; bug fixes; sound tool button deleted to make faster loading because it doesn't do anything anyway
+1.0.6.6.4.1: Added Internet icon, doesn't do that as there is conflict between the Menu and the icon. 
+1.0.6.6.5: Deleted conflict between Internet icon
+Sorry for the wait, last update was 1 nov 2018 but now it's 14 dec 2018. sorry but...
+1.0.6.7: For some odd reason, the "delete name for assistant?" thing changes the name for what your name IS! So I renamed the question for more sense and fixed a few glitches
+CRITICAL UPDATE -- UPDATE NOW!! : The password field is asking for the WRONG variable! I fixed this because I got locked out. 
+1.0.6.8: "Day of the week" variable was misplaced, because of the new, larger variables it covered the 'Year' variable  Also, I will NEVER get to 1000 likes, so I changed the goal to 125 (an eighth)
+Sorry I haven't been updating, the last one was Apr 30, 2018, now it's May 9, 2019, It's been just over a year!!
+Version 2.0!!
+-  Sped up BOOT
+-  Misc stuff
+-  Added logs! Still in beta...
+Okay this is crazy it's August 26 and still no update since April 30, 2018! wow.
+Update 2.1...(that date)
+- new icon! for the camera
+- icons and clock now disappear on shutdown
+- a few bugs fixed
+
+KNOWN_BUGS
+----------
+Unfortunately there seems to be many bugs now in Scratch 3.0, though I'm not sure if that's the issue. Menu does not work. There are probably also other bugs.
+
+Graphics suck
+
+Camera app does not seem to work.
+
+Assistant does not work.
+
+UPDATE: Those bugs seem to be my fault : the original (non remix) works fine. (Well it doesnt have the assistant and its graphics arent that good either but........)
+
+MORE
+----
+Kwaj2 made the original; it's bundled.
