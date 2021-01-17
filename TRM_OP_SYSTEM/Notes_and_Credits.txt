@@ -1,22 +1,17 @@
+NOTE: THese notes are for TRM Op System by TtR
+
 NOTES AND CREDITS
-===
+=================
 Tinplate created the 1st version. I added bug fixes and other stuff.
 Also, thx 4 the world of Scratch! 
 There is one way to get out of the Virus... lol can't believe I missed this. 
 
-Sorry for the long waits, the last update was january 06, 2018! now it's thursday august 8 2019!!!
-- changed name of websites
-- added new website
-- changed password to scratcherontis
-- lower filesize (by a bit)
-- updated instructions
-- progress bars on boot & login: you no longer need ANY setup for those sliders!
-- misc
-
-Last updated Jan 06, 2018! Sheesh! Anyway, fixed the password in the Instructions - was scratch, now scratcherontis. (Sep 15, 2020)
+CHANGELOG 1.2.1; 
+- Improve some names.
+- Fix a few small bugs.
 
 INSTRUCTIONS
-==
+============
 Username = your scratch username OR User
 Password = scratcherontis
 The Internet sites are:
