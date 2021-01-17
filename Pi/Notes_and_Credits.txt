@@ -1,0 +1,14 @@
+INSTRUCTIONS
+============
+
+Click the buttons to change the pi. Press reset to reset and press check for the answer. 1 million digits shows you a lot of pi
+
+NOTES AND CREDITS
+=================
+
+in this remix, I fixed a bug where 1 million digits would add one every single time it starts, but does not delete the last ones. this means that in the original, every time you clicked the green flag it would add one. once it added 19 because I wanted to make sure of this bug!
+
+DAY
+===
+
+August 26, 2019
