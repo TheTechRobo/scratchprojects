@@ -75,6 +75,8 @@ v.2.2.1 (same day):
 - Remove assistant code to save space and improve performance. 
 - Add help menu and close command. (to the run thingy)
 - Probably other thingies that I forgot.
+v.2.2.2 (18 jan 2021):
+- Small change for date icon - itll now turn into a down arrow when the date thingy is open!
 
 KNOWN_BUGS
 ----------
