@@ -64,10 +64,17 @@ Update 2.1...(that date)
 - new icon! for the camera
 - icons and clock now disappear on shutdown
 - a few bugs fixed
+Update 2.2... (Jan 17 2021)
+- Many under-the-hood changes
+- Disable assistant. It was of no use. 
+- Many bug fixes.
+- Fix positioning.
+- Improve date button. 
+- Remove a few useless thingies.
 
 KNOWN_BUGS
 ----------
-Unfortunately there seems to be many bugs now in Scratch 3.0, though I'm not sure if that's the issue. Menu does not work. There are probably also other bugs.
+Unfortunately there seems to be many bugs now in Scratch 3.0, though I'm not sure if that's the issue.
 
 Graphics suck
 
