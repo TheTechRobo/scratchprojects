@@ -71,6 +71,10 @@ Update 2.2... (Jan 17 2021)
 - Fix positioning.
 - Improve date button. 
 - Remove a few useless thingies.
+v.2.2.1 (same day):
+- Remove assistant code to save space and improve performance. 
+- Add help menu and close command. (to the run thingy)
+- Probably other thingies that I forgot.
 
 KNOWN_BUGS
 ----------
