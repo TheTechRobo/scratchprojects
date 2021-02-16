@@ -6,8 +6,9 @@ Tinplate created the 1st version. I added bug fixes and other stuff.
 Also, thx 4 the world of Scratch! 
 There is one way to get out of the Virus... lol can't believe I missed this. 
 
-CHANGELOG 1.2.3; 
-- Minor cosmetic changes.
+CHANGELOG 1.3; 
+- Cleanup
+- Misc changes
 
 Sys.ff permission denied music inspired by the gamecube Game Boy Player error. (https://youtu.be/rLk-5EzJ8as?t=186)
 
