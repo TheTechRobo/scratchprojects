@@ -24,9 +24,10 @@ software.ca/goat
 mailtrm.thetechrobo.ca
 {your username}
 
-Good idea: Don't type anything into the search engine
+Good idea: Don't type anything into the browser
 
- DATE: JAN 18 2021
+ DATE: 15 FEB 2021
+REPORTED DATE BY SCRATCH: JAN 06 2018
 
 ORIGINAL AUTHOR: Tinplate (original project bundled)
 
